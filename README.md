@@ -22,7 +22,9 @@ Lista 2 de exercícios da disciplina "Programação para Dispositivos Móveis".
 5. adicione um players no início do vetor;
 6. imprima o vetor;  
 
+
 2- Usando o script do exercicio anterior, procure um player a partir do Id. Caso exista, imprima a mensagem que ele foi encontrado em um determinado indice. Adicione também um código que irá buscar um player por outra propriedade (não será id), e imprima o atributo caso o jogador encontrado seja válido. 
+
 
 
 3- Crie uma função que recebe a idade de um usuário e retorna uma Promise que depois de 5
@@ -33,6 +35,7 @@ Deverá imprimir a mensagem "Menor que 18" caso a promise retorne um resultado n
 
 Retorne o seguinte conteúdo:
 `A pessoa mora em Ituiutaba-MG, no bairro Centro, na rua "Rua Vinte e Dois", número 1239.`
+
 
 4- Crie um script que recebe o nome de um usuário no Github. Após digitar o
 nome do usuário, deverá buscar pela API do Github (conforme URL abaixo) os dados de repositórios do usuário e mostrá-los em tela:
@@ -50,6 +53,7 @@ aula1-javascript
 dispositivos-moveis-lista-exercicios-1
 dispositivos-moveis-lista-exercicios-2
 ```
+
 
 5- A partir do resultado do exemplo anterior adicione uma mensagem "Carregando..." indicando o carregamento. Ao carregar, deverá imprimir a mensagem no console "Carregado" antes das mensagens do exercício anterior.
 Além disso, adicione uma mensagem de erro no console caso o usuário no Github não exista.
