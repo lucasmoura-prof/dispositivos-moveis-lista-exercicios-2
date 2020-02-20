@@ -15,14 +15,14 @@ Lista 2 de exercícios da disciplina "Programação para Dispositivos Móveis".
 ## Exercícios
 
 1- Crie um script que irá conter um vetor de objetos chamado `players`, esse vetor dever conter 5 players definidos. Faça os seguintes passos para manipular esse vetor (usando as funções de vetor):
-Adicione 2 players no final do vetor;
-Remova o primeiiro players do vetor;
-Imprima os players no console.
-Remova o último player do vetor;
-Adicione um players no início do vetor;
-Imprima o vetor;  
+1. adicione 2 players no final do vetor;
+2. remova o primeiiro players do vetor;
+3. imprima os players no console.
+4. remova o último player do vetor;
+5. adicione um players no início do vetor;
+6. imprima o vetor;  
 
-2. Usando o script do exercicio anterior, procure um player a partir do Id. Caso exista, imprima a mensagem que ele foi encontrado em um determinado indice. Adicione também um código que irá buscar um player por outra propriedade (não será id), e imprima o atributo caso o jogador encontrado seja válido. 
+2- Usando o script do exercicio anterior, procure um player a partir do Id. Caso exista, imprima a mensagem que ele foi encontrado em um determinado indice. Adicione também um código que irá buscar um player por outra propriedade (não será id), e imprima o atributo caso o jogador encontrado seja válido. 
 
 
 3- Crie uma função que recebe a idade de um usuário e retorna uma Promise que depois de 5
