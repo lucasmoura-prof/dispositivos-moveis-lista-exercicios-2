@@ -60,12 +60,4 @@ Além disso, adicione uma mensagem de erro no console caso o usuário no Github 
 
 Dica: Quando o usuário não existe, a requisição irá cair no .catch com código de erro 404.
 
-```javascript
-function temHabilidade(skills) {
-	// Implementação
-}
-var skills = ["Javascript", "ReactJS", "React Native"];
-console.log(temHabilidade(skills)); // true ou false
-```
-Dica: para verificar se um vetor contém um valor, utilize o método indexOf.
 
