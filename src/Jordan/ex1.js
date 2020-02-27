@@ -1,4 +1,4 @@
-var players = [];
+var players = []; // Fora da função, a array pode ser lida pelos outros scripts
 
 function ex1() {
     console.clear();
@@ -9,10 +9,10 @@ function ex1() {
     var cssEx = 'color: yellow; background-color: gray;';
     console.log('%c--------- Exercício 1 ---------', cssEx);
 
-    // Esvaziamento do vetor para não acumular toda vez que a função for chamada
+    // Esvaziamento da array para não acumular toda vez que a função for chamada
     players = [];
 
-    // Preenchimento do vetor
+    // Preenchimento da array
     players.push(
         {
             id: 2,

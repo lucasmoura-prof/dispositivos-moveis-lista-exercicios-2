@@ -6,7 +6,8 @@ function ex2() {
     var cssEx = 'color: yellow; background-color: gray;';
     console.log('%c--------- Exercício 2 ---------', cssEx);
 
-    if (Array.isArray(players) && players.length) { // Verifica se a array está preenchida
+    // Verifica se 'players' não está vazia, caso contrário uma mensagem de erro é imprimida
+    if (Array.isArray(players) && players.length) {
 
         // Passo 1, encontrar index por ID
         var searchById = 11; // ID a ser procurado
