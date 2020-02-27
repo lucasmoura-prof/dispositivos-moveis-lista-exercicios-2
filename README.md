@@ -33,9 +33,6 @@ idade o resultado deve cair no .then, caso contrário, no .catch
 Deverá imprimir a mensagem "Maior que 18" caso a promise retorne um resultado positivo.
 Deverá imprimir a mensagem "Menor que 18" caso a promise retorne um resultado negativo.
 
-Retorne o seguinte conteúdo:
-`A pessoa mora em Ituiutaba-MG, no bairro Centro, na rua "Rua Vinte e Dois", número 1239.`
-
 
 4- Crie um script que recebe o nome de um usuário no Github. Após digitar o
 nome do usuário, deverá buscar pela API do Github (conforme URL abaixo) os dados de repositórios do usuário e mostrá-los em tela:
